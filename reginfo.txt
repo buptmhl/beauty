@@ -1,0 +1,14 @@
+% GUI setup info
+user=
+company=
+address1=
+address2=
+city=
+state=
+country=
+zip=
+email=
+phone=
+authCode=
+instKey=
+griffinKey=
